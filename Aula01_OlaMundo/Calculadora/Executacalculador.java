@@ -2,7 +2,6 @@ package Aula01_OlaMundo.Calculadora;
 import Aula01_OlaMundo.Calculadora.Calculadora;
 
 public class Executacalculador {
-    
     public static void main(String[] args){
         Calculadora calc1 = new Calculadora();
         Calculadora calc2 = new Calculadora();

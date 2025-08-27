@@ -13,6 +13,9 @@ public class Radar {
         if (c.velocidade > limitevelocidade) {
             emitirNotificacao(c.placa, c.velocidade);
                 System.out.println("Voce foi multado, comedia!");
+            if (c.velocidade <= limitevelocidade) {
+                System.out.println("Liberado!");
+            }
         }
     }
 }
