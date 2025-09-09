@@ -1,2 +1,0 @@
-# Programacao_orientada_a_objetos_2s_2025
-Aula PO
