@@ -1,4 +1,4 @@
-package Programacao_orientada_a_objetos_2s_2025.atividade1;
+package atividade1;
 public class SistemaOperacional {
     public Computador computador;
 

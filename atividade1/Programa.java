@@ -1,4 +1,4 @@
-package Programacao_orientada_a_objetos_2s_2025.atividade1;
+package atividade1;
 public class Programa {
     public Programa(int memoriaRAMalocada, int SSDocupado, int nucleos, int quantidadeOperacoes) {
         this.memoriaRAMalocada = memoriaRAMalocada;

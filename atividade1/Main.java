@@ -1,4 +1,4 @@
-package Programacao_orientada_a_objetos_2s_2025.atividade1;
+package atividade1;
 public class Main {
     public static void main(String[] args) {
         Computador notebook = new Computador(16, 500, 8, 2.5f);
