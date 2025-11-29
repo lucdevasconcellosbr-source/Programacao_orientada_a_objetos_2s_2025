@@ -1,5 +1,5 @@
 package AT3;
-package model;
+package AT3.src.model;
 
 public abstract class Pessoa {
     protected int id;
